@@ -1,14 +1,13 @@
-## Welcome to the Blogs Api
+## Welcome to the Cookmaster Project !
 
 ## Techs and Concepts:
 
 - MSC
 - RESTFUL
 - Json Web Token (JWT)
-- MongoDB
+- MongoDb
 - Express
 - Express-Rescue
-- ESLint
 
 ### How to:
 

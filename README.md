@@ -1,4 +1,4 @@
-# Welcome to my Backend projects !
+# Welcome to my Backend and DataBase projects !
 Here you will find Trybe course related projects.
 
 ## Techs:
@@ -8,6 +8,10 @@ Here you will find Trybe course related projects.
   - Json Web Token (JWT)
   - MySQL
   - MongoDB
+  - ESLint
+
+### ESLint:
+ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
 
 ## How to:
 

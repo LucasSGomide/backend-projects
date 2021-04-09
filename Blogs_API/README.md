@@ -1,4 +1,4 @@
-## Blogs Api
+## Welcome to the Blogs Api
 
 ## Techs and Concepts:
 
@@ -10,12 +10,13 @@
 - Sequelize
 - Express
 - Express-Rescue
+- ESLint
 
 ### How to:
 
 To checkout the project you can download it from this repo, and then run de code lines below:
 
-**Important**: Make sure you have `MySQL` installed.
+**Important**: Make sure you have `MySQL` installed and running.
 
 ```
 <!-- Install dependencies -->
