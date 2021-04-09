@@ -1,9 +1,11 @@
 ## Blogs Api
 
+## Techs and Concepts:
+
 - MSC
 - SOLID
 - RESTFUL
-- JWT
+- Json Web Token (JWT)
 - MySQL
 - Sequelize
 - Express
@@ -11,7 +13,9 @@
 
 ### How to:
 
-To test the projects you can download them from this repo, and then run de code line below:
+To checkout the project you can download it from this repo, and then run de code lines below:
+
+**Important**: Make sure you have `MySQL` installed.
 
 ```
 <!-- Install dependencies -->
@@ -42,4 +46,3 @@ npm run seed
   - GET http://localhost:3000/post/:id (Get post by ID)
   - PUT http://localhost:3000/post/:id (Update post)
   - DELETE http://localhost:3000/post/:id (Delete post)
-  
